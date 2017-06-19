@@ -9,7 +9,7 @@ These packages were released:
 
 Version of package(s) in repository `qb_chain`:
 
-- upstream repository: ssh://git@bitbucket.org/qbrobotics/qbchain-ros.git
+- upstream repository: https://bitbucket.org/qbrobotics/qbchain-ros.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`
